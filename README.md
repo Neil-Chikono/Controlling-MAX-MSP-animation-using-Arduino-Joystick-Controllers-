@@ -1,4 +1,4 @@
-Setup Of JoySticks Controlling Graphic Screen
+Setup Of JoySticks Controlling Graphical System
 
 <img width="756" height="1008" alt="Joysticks Controlling Graphic Visuals" src="https://github.com/user-attachments/assets/e5ffbe54-0d25-48f5-a342-536a2a35c0dd" />
 

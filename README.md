@@ -29,6 +29,11 @@ extend the psychics and lightning simulation. Additionally it is harder to creat
 Moving forward I would like to see how i can use arduino to interface with other 3D softwares.
 
 
+
+
+https://github.com/user-attachments/assets/b0439468-5cee-49da-9714-7526c0cbd4c0
+
+
 https://github.com/user-attachments/assets/733e991a-17b6-473b-8a4a-b90fbedafa71
 
 

@@ -41,6 +41,12 @@ https://github.com/user-attachments/assets/733e991a-17b6-473b-8a4a-b90fbedafa71
 https://github.com/user-attachments/assets/d1772ee5-ab10-4b46-b4a3-eab4cc4d476b
 
 
+<p>Max patch:</p>
+
+
+<img width="2614" height="1514" alt="Screenshot 2026-10-03 at 17 51 16" src="https://github.com/user-attachments/assets/0f529184-5336-4791-ba80-1ef5a539545b" />
+
+<img width="2642" height="1630" alt="Screenshot 2026-10-03 at 17 50 54" src="https://github.com/user-attachments/assets/44c9c78a-f07c-48a7-b364-3f23235eb213" />
 
 
 
